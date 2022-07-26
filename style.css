@@ -8,3 +8,10 @@
 .secondary-color {
   color: #9f1ae2;
 }
+.my__card {
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+}
+.my__card:hover {
+  box-shadow: none;
+  transition: box-shadow 500ms;
+}
