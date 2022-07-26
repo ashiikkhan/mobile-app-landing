@@ -1,4 +1,10 @@
 .background-gradient {
-  background: linear-gradient(90deg, blue, rgb(216, 15, 235));
+  background: linear-gradient(90deg, #2937f0, #9f1ae2);
   /* background: red/; */
+}
+.primary-color {
+  color: #2937f0;
+}
+.secondary-color {
+  color: #9f1ae2;
 }
