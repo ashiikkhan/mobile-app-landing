@@ -8,10 +8,26 @@
 .secondary-color {
   color: #9f1ae2;
 }
+.footer-bg {
+  background-color: #2a174f;
+}
 .my__card {
   box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
 }
 .my__card:hover {
   box-shadow: none;
   transition: box-shadow 500ms;
+}
+.custom-fs-1 {
+  font-size: 64px;
+}
+.custom-fs-2 {
+  font-size: 56px;
+}
+.download__section {
+  background-image: url('img/background.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: overlay;
+  height: 100vh;
 }
